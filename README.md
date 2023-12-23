@@ -1,8 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ziya Zaidov 
 I'm iOS Developer   
 * 🌍  I'm based in Baku,Azerbaijan
-*  ✉️  You can contact me at [ziyazaidov@gmail.com](mailto:ziyazaidov@gmail.com)
-* 🧠  I'm learning Swift5, UIKit, SwiftUI
+* ✉️  You can contact me at [ziyazaidov@gmail.com](mailto:ziyazaidov@gmail.com)
+* I have strong knowledge Swift5, UIKit, SwiftUI
+* Have expirience with Core Data, Realm, Alamofire, URL Session, Firebase
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills  
